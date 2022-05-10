@@ -1,21 +1,16 @@
 # Transfere Learning
 
 
+Train machine learning model specially in computer vision and NLP is computatianaly expensive and data consoming that why transfere learning came to rescuse.
+
+**Transfer learning (TL)** refers to a challenge in machine learning (ML) research. The challenge involves transferring and applying knowledge gained while solving one issue to solving another, related issue. For instance, what was learned while identifying dogs can be reapplied to identify cats.
+
+In this project diverse well known machine learning or deep learning will be implement to diferent type of dataset.
 
 
+## How to run
 
-
-
-
-
-
-
-
-
-
-
-
-# Resources
+## Resources
 + [6 Open Source Data Science Projects to Impress your Interviewer](https://www.analyticsvidhya.com/blog/2020/06/6-open-source-data-science-projects-interviewer/)
 + [A Newbie-Friendly Guide to Transfer Learning](https://www.v7labs.com/blog/transfer-learning-guide)
 + [Transfer Learning with VGG16 and Keras](https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4)
